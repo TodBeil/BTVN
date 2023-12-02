@@ -6,13 +6,10 @@ using namespace std;
 void MedianAge();
 
 int main()
-{
-    MedianAge();
-    return 0;
-}
-
+  
 void MedianAge()
 {
     print("hello, world")
     
 }
+

@@ -7,7 +7,6 @@ void MedianAge();
 
 int main()
 {
-    MedianAge();
     return 0;
 }
 

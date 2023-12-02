@@ -13,3 +13,8 @@ void MedianAge()
     
 }
 
+void Age()
+{
+    print("abc")
+}
+
